@@ -1,0 +1,6 @@
+C:\Users\ewerton.w.da.silva\source\repos\RepertorioLouvor.Negocio\bin\Debug\netstandard2.0\RepertorioLouvor.Negocio.deps.json
+C:\Users\ewerton.w.da.silva\source\repos\RepertorioLouvor.Negocio\bin\Debug\netstandard2.0\RepertorioLouvor.Negocio.dll
+C:\Users\ewerton.w.da.silva\source\repos\RepertorioLouvor.Negocio\obj\Debug\netstandard2.0\RepertorioLouvor.Negocio.csprojAssemblyReference.cache
+C:\Users\ewerton.w.da.silva\source\repos\RepertorioLouvor.Negocio\obj\Debug\netstandard2.0\RepertorioLouvor.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ewerton.w.da.silva\source\repos\RepertorioLouvor.Negocio\obj\Debug\netstandard2.0\RepertorioLouvor.Negocio.AssemblyInfoInputs.cache
+C:\Users\ewerton.w.da.silva\source\repos\RepertorioLouvor.Negocio\obj\Debug\netstandard2.0\RepertorioLouvor.Negocio.AssemblyInfo.cs

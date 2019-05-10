@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ewerton.w.da.silva\\source\\repos\\RepertorioLouvor\\RepertorioLouvor.Negocio\\RepertorioLouvor.Negocio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ewerton.w.da.silva\\source\\repos\\RepertorioLouvor\\RepertorioLouvor.Negocio\\RepertorioLouvor.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ewerton.w.da.silva\\source\\repos\\RepertorioLouvor\\RepertorioLouvor.Negocio\\RepertorioLouvor.Negocio.csproj",
+        "projectName": "RepertorioLouvor.Negocio",
+        "projectPath": "C:\\Users\\ewerton.w.da.silva\\source\\repos\\RepertorioLouvor\\RepertorioLouvor.Negocio\\RepertorioLouvor.Negocio.csproj",
+        "packagesPath": "C:\\Users\\ewerton.w.da.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ewerton.w.da.silva\\source\\repos\\RepertorioLouvor\\RepertorioLouvor.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ewerton.w.da.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Google.Apis.Sheets.v4": {
+              "target": "Package",
+              "version": "[1.39.0.1579, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

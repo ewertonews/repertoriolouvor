@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28809.33
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepertorioLouvor", "RepertorioLouvor.csproj", "{D288E6CB-13A7-496E-83EF-20230E5991B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepertorioLouvor.Negocio", "..\RepertorioLouvor.Negocio\RepertorioLouvor.Negocio.csproj", "{2C8764ED-3558-478D-8F4B-CA027F810721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D288E6CB-13A7-496E-83EF-20230E5991B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D288E6CB-13A7-496E-83EF-20230E5991B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D288E6CB-13A7-496E-83EF-20230E5991B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D288E6CB-13A7-496E-83EF-20230E5991B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8764ED-3558-478D-8F4B-CA027F810721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8764ED-3558-478D-8F4B-CA027F810721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8764ED-3558-478D-8F4B-CA027F810721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8764ED-3558-478D-8F4B-CA027F810721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FED964DA-ACC7-4DAD-9275-048245D23A4C}
+	EndGlobalSection
+EndGlobal
